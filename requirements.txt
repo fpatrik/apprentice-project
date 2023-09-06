@@ -6,6 +6,6 @@ tk
 pandas
 statsmodels
 scikit-learn
--i https://download.pytorch.org/whl/cpu
-torch
 librosa
+openai
+
